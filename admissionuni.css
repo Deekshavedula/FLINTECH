@@ -1,0 +1,38 @@
+
+.content {
+   
+    margin-bottom: 100px;
+ }
+ 
+ table, th, td {
+    border: 1px solid grey;
+    border-spacing: 10px;
+ }
+.container1{
+   background-color:
+   #7FFFD4;
+   opacity: 0.6;
+   color: black;
+}
+ 
+ .jumbotron{
+   font-family: "Nunito", sans-serif;
+   color: #2c3e50;
+   text-align: center;
+   background-color:#F8F8FF;
+   padding-top: 15%;
+   
+ }
+ .body {
+    background:#F0FFF0;
+    font-family: "Nunito", sans-serif;
+    padding: 10%;
+}
+.marquee{
+      font-weight: bolder;
+      font-size: xx-large;
+      animation:  5s linear infinite;
+      
+      
+}
+

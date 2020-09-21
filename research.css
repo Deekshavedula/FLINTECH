@@ -1,0 +1,26 @@
+.content {
+   
+   margin-bottom: 100px;
+}
+
+table, th, td {
+   border: 1px solid grey;
+   border-spacing: 10px;
+   padding: 5px;
+   font-weight: bold;
+}
+
+.jumbotron{
+  color: #2c3e50;
+  text-align: center;
+  background-color:#F8F8FF;
+  padding: 3%;
+  
+}
+body {
+   background:#F0FFF0;
+   font-family: "Nunito", sans-serif;
+   padding: 10%;
+  
+   
+}
